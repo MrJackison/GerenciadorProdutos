@@ -6,10 +6,6 @@ Um sistema de gerenciamento de produtos desenvolvido em Java que permite aos usu
 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Funcionalidades](#funcionalidades)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Como Usar](#como-usar)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Tecnologias Utilizadas
 
@@ -25,6 +21,3 @@ Um sistema de gerenciamento de produtos desenvolvido em Java que permite aos usu
 - Atualizar informações de produtos existentes.
 - Deletar produtos.
 - Validações de dados para garantir a integridade das informações inseridas.
-
-## Estrutura do Projeto
-
