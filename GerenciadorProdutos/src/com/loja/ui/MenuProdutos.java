@@ -211,7 +211,7 @@ public class MenuProdutos {
         return scanner.nextLine().trim();
     }
 
-    // Lê uma entrada de número double, com tratamento de erros
+    // Lê uma String e converte para double
     private double lerEntradaDouble(String mensagem) {
         while (true) {
             try {
@@ -223,7 +223,7 @@ public class MenuProdutos {
         }
     }
 
-    // Lê uma entrada de número inteiro, com tratamento de erros
+    // Lê uma String e converte para inteiro
     private int lerEntradaInteira(String mensagem) {
         while (true) {
             try {
